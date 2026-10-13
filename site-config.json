@@ -1,0 +1,30 @@
+{
+  "siteTitle": "LiteAd Studios - Games & Apps",
+  "siteDescription": "We build games and useful apps with one simple belief: great experiences come first, ads come second.",
+  "brandName": "LITEAD STUDIOS",
+  "subBrand": "GAMES & APPS",
+  "badge": "PLAY MORE • INTERRUPT LESS",
+  "motto": "Ads Should Never Get in the Way of Fun.",
+  "tagline": "Made for people, not interruptions.",
+  "philosophy": "We build games and useful apps with one simple belief: great experiences come first, ads come second.",
+  "contactEmail": "liteadgamingstudios@gmail.com",
+  "youtubeUrl": "https://www.youtube.com/channel/UCU9h68SPyHJgZMKFbJpS2IQ",
+  "games": [
+    {
+      "id": "tictactoe",
+      "title": "Tic-Tac-Toe",
+      "description": "A classic game, made simple and enjoyable.",
+      "icon": "Assets/tictactoe-icon.png",
+      "tags": ["Play vs AI", "Two Player", "Multiple Levels"],
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.litead.tictactoe"
+    }
+  ],
+  "colors": {
+    "bgDark": "#070814",
+    "accentViolet": "#7928ca",
+    "accentBlue": "#0070f3",
+    "accentCyan": "#00dfd8",
+    "accentMagenta": "#ff0080",
+    "accentGold": "#ffb800"
+  }
+}
